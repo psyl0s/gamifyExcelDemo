@@ -10,11 +10,11 @@ We have an excel sheet used to log worktimes and calculate pay based on hourly r
 * Unity
 * Visual Studio 2019
    * Monodevelop *(if no VS)*
-* FL Studio *planned*
+* ~~FL Studio~~
 
 ## TODO List
 ### **URGENT:**
-- [ ] Create grid based game system
+- [x] Create grid based game system
 - [ ] Finish basic gameplay
 - [ ] Use Nakama from Docker to implement a multiplayer system
 
