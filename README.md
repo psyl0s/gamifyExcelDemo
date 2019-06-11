@@ -16,7 +16,7 @@ We have an excel sheet used to log worktimes and calculate pay based on hourly r
 - [ ] Finish basic gameplay
 - [ ] Use Nakama from Docker to implement a multiplayer system
 
-## _Planned:_
+### _Planned:_
 - [ ] Visually pleasing GUI
 - [ ] Visually pleasing assets
    - [ ] Buildings
