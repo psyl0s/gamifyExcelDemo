@@ -20,9 +20,9 @@ We have an excel sheet used to log worktimes and calculate pay based on hourly r
 
 ### _Planned:_
 - [ ] Get a decent banner
-- [ ] Visually pleasing GUI
 - [ ] Visually pleasing assets
    - [ ] Buildings
+   - [ ] GUI
    - [ ] Avatars for visitors
    - [ ] BGM
 - [ ] Deploy on an actual server
