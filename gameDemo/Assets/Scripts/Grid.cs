@@ -11,9 +11,9 @@ public class Grid : MonoBehaviour
     {
         position -= transform.position;
 
-        int posX = Mathf.RoundToInt(position.x / size);
-        int posY = Mathf.RoundToInt(position.y / size);
-        int posZ = Mathf.RoundToInt(position.z / size);
+        int posX = Mathf.RoundToInt(position.x / size), 
+            posY = Mathf.RoundToInt(position.y / size), 
+            posZ = Mathf.RoundToInt(position.z / size);
 
         Vector3 result = new Vector3(
             (float)posX * size,
