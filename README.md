@@ -8,7 +8,7 @@ We have an excel sheet used to log worktimes and calculate pay based on hourly r
 * Unity
 * Visual Studio 2019
    * Monodevelop *(if no VS)*
-* FL Studio *uncertain*
+* FL Studio *planned*
 
 ## TODO List
 ### **URGENT:**
