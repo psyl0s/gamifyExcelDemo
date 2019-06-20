@@ -437,9 +437,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   placeableObjectPrefabs:
-  - {fileID: 2098287162345772527, guid: 8293063599786d546987083bb030cd2c, type: 3}
-  - {fileID: 2098287162345772527, guid: 4805a53d1a505b54eb48fdb7b984ae30, type: 3}
-  - {fileID: 2098287162345772527, guid: b995323b8b6c7f94ea45601101d2d5d8, type: 3}
+  - {fileID: 6607294816062090626, guid: 3b5db01eed6fd5a4ca38e90e59213367, type: 3}
+  - {fileID: 9003903954050970857, guid: 1881c5ac903e86442a40c401b4da7bfc, type: 3}
+  - {fileID: 6576491338271390269, guid: 71ef567fcaf16d64d91589a9b506077c, type: 3}
 --- !u!4 &2026381797
 Transform:
   m_ObjectHideFlags: 0
