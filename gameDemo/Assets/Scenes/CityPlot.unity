@@ -541,5 +541,10 @@ PrefabInstance:
       propertyPath: panLim.z
       value: 4
       objectReference: {fileID: 0}
+    - target: {fileID: 3111027761797622984, guid: bf358514e769e6c4893621434488210b,
+        type: 3}
+      propertyPath: panSpeed
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bf358514e769e6c4893621434488210b, type: 3}
